@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Project><Title>Elite Mossy Remake</Title><Game>BO3</Game><Mode>SP</Mode><Platform>Steam</Platform><Symbols>DEBUG;EXAMPLE</Symbols></Project>
